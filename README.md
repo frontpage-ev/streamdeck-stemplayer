@@ -1,6 +1,15 @@
-# streamdeck-stemplayer
+# Stem Player for Stream Deck
 
-An Electron application with Vue and TypeScript
+"Stem Player for Stream Deck" is a specially designed software aimed at controlling music stems (individual parts of a
+music track such as bass, drums, vocals, etc.) via the popular Stream Deck interface. This integration allows users to
+control, mix and manipulate elements of a song in real time.
+
+![Stem Player for Stream Deck](https://wiki.frontpage.gg/software/zqm99x0aod.png)
+
+## Documentation
+
+The documentation for the Stream Deck SDK is
+available [here](https://wiki.frontpage.gg/de/voc/software/streamdeck-stemplayer).
 
 ## Recommended IDE Setup
 
