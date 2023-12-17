@@ -12,7 +12,7 @@ control, mix and manipulate elements of a song in real time.
 
 ## Documentation
 
-The documentation for the Stream Deck SDK is
+The documentation for the Stem Player for Stream Deck is
 available [here](https://wiki.frontpage.gg/de/voc/software/streamdeck-stemplayer).
 
 ## Recommended IDE Setup
