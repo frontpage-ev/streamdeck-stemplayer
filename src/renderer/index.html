@@ -1,0 +1,17 @@
+<!doctype html>
+<html class="h-full">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Stem Player for Stream Deck</title>
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self' ws://localhost:3123 http://localhost:3123 https://cdn.bitinflow.com file:; script-src 'self'; style-src 'self' 'unsafe-inline'"
+    />
+  </head>
+
+  <body class="h-full">
+    <div class="h-full" id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
