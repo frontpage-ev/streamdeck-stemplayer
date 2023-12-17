@@ -4,6 +4,10 @@
 music track such as bass, drums, vocals, etc.) via the popular Stream Deck interface. This integration allows users to
 control, mix and manipulate elements of a song in real time.
 
+> [!IMPORTANT]
+> This software is just the Stem Player for Stream Deck. You need
+> the [Stream Deck Plugin](https://github.com/frontpage-ev/streamdeck-stemplayer-plugin) too to use it.
+
 ![Stem Player for Stream Deck](https://wiki.frontpage.gg/software/zqm99x0aod.png)
 
 ## Documentation
