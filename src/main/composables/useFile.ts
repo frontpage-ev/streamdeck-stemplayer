@@ -40,7 +40,7 @@ export function useFile() {
 
           track.stems.push({
             tackName: trackName,
-            name: stemName.split(".")[0],
+            name: path.parse(stemName).name,
             path: file
           });
         });
